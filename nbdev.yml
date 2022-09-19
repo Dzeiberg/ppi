@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "ppi"
+  site-url: "https://Dzeiberg.github.io/ppi"
+  description: "ppi"
+  repo-branch: main
+  repo-url: "https://github.com/Dzeiberg/ppi"
